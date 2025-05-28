@@ -2,7 +2,7 @@
 A retro streaming Android app inspired by 16-bit video game music.
 
 <p align="center">
-  <img src="[logo_radio16bit.png](https://github.com/TUF1T/radio16bit/blob/main/radio16bit.png)" alt="Radio 16-bit Logo" width="200"/>
+  <img src="https://github.com/TUF1T/radio16bit/blob/main/radio16bit.png" alt="Radio 16-bit Logo"/>
 </p>
 
 # Radio 16-bit
